@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspect", "Aspect.csproj", "{313CEBB4-AD0F-70B7-8384-CEA9EFFA8B30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspect.Editor", "Aspect.Editor.csproj", "{DAE156FB-5EE2-0F2D-A3FA-ACB029D4F733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{313CEBB4-AD0F-70B7-8384-CEA9EFFA8B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313CEBB4-AD0F-70B7-8384-CEA9EFFA8B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313CEBB4-AD0F-70B7-8384-CEA9EFFA8B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313CEBB4-AD0F-70B7-8384-CEA9EFFA8B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE156FB-5EE2-0F2D-A3FA-ACB029D4F733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE156FB-5EE2-0F2D-A3FA-ACB029D4F733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE156FB-5EE2-0F2D-A3FA-ACB029D4F733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE156FB-5EE2-0F2D-A3FA-ACB029D4F733}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
